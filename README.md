@@ -1,8 +1,8 @@
 # License-Plate-Detection-and-Recognition
-###Pipeline：
+### Pipeline：
   使用颜色分割和轮廓检测进行车牌定位->利用积分法进行单个字符的分割->利用CNN进行车牌字符识别
   
-###Guide：
+### Guide：
 * Main:主程序，进行车牌定位与识别
 * Train_number:训练数字、字母识别模型
 * Train_province:训练省份代号识别模型
